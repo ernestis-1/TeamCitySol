@@ -4,7 +4,7 @@ a = 15
 b = 20
 c = 0
 
-print('a =', d , 'b =', b )
+print('a =', a , 'b =', b )
 c = a
 a = b
 b = c
